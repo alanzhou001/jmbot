@@ -10,7 +10,7 @@
 
 - 感谢[JMComic](https://github.com/JMasann/JMComic)提供下载器
 
-- 使用`\jm id`即可下载对应车号漫画, [`demo.ipynb`](src\plugins\jm\demo.ipynb)可以正常使用
+- 使用`\jm id`即可下载对应车号漫画, [`demo.ipynb`](src/plugins/jm/demo.ipynb)可以正常使用
 
 ## 悲报
 
